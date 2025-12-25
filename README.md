@@ -35,5 +35,3 @@ python merge_excels.py
 - 若目录下没有 `.xlsx` 文件，`pandas.concat` 会报错，可自行加判断。
 - 若需要合并其他格式（如 `.xls`），可扩展 `glob` 的匹配规则。
 
-## 许可证
-如需公开仓库，建议补充许可证（例如 MIT）。
